@@ -23,7 +23,7 @@ const fallbackStats = {
   },
   geeksforgeeks: {
     username: "bhavyavea3hx",
-    problemsSolved: 230,
+    problemsSolved: 300,
     articles: 0,
     rank: 145,
     score: 662,
